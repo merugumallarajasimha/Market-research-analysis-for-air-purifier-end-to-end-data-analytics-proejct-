@@ -4,6 +4,7 @@ An End-to-End Data Science & Business Intelligence Roadmap for the Indian Air Pu
 
 📌 Project Overview
 IT is a comprehensive data-driven strategy project designed to guide an air purifier startup through the complexities of the Indian environmental landscape. This project transitions from raw, fragmented atmospheric data to a high-fidelity 6-Page Executive Dashboard that identifies "Priority 1" launch zones, competitive feature gaps, and demographic vulnerabilities.
+presentation.mp4 video is an overall execution and presentation of this project
 
 ⚙️ The Data Engineering Pipeline (My Workflow)
 The project follows a rigorous 4-stage analytical pipeline to ensure the "Single Version of Truth."
